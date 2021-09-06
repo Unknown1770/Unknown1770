@@ -18,7 +18,7 @@ I am VIjayant Prateek a final year undergraduate from Acharya Institute of Techn
 <a href="https://www.linkedin.com/in/vijayant-prateek-6a134b128/" target="blank">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
 </a>&ensp;
-<a href="https://twitter.com/Vijayan38912082" target="blank>
+<a href="https://twitter.com/Vijayan38912082" target="blank">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg">
 </a>&ensp;
 
